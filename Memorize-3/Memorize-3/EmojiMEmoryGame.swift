@@ -2,7 +2,7 @@
 //  EmojiMemoryGame.swift
 //  Memorize-3
 //
-//  Created by 沙茂龙 on 2020/9/30.
+//  Created by TotoroJ on 2020/9/30.
 //
 
 import SwiftUI
