@@ -6,6 +6,8 @@
 📝作业答案（带标记）
 🥰不断更新中…
 ---
+## 课程笔记（Notion有时可能需要翻墙）
+[点我](https://www.notion.so/Swift-2cc7cccb11a84c67ab97ad724f4967b5)
 ## 作业：
-### [点我>>>a1:基本作业+加分题](https://github.com/totoroJyunn/CS193p-Swift/tree/master/a-1)
-### [点我>>>a2:基本作业+加分题（待完成）](https://github.com/totoroJyunn/CS193p-Swift/tree/master/a-2)
+[a1:基本作业+加分题](https://github.com/totoroJyunn/CS193p-Swift/tree/master/a-1)
+[a2:基本作业+加分题（待完成）](https://github.com/totoroJyunn/CS193p-Swift/tree/master/a-2)
