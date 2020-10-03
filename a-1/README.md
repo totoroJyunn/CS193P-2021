@@ -1,5 +1,6 @@
 # a1
 **在代码中搜索“ _assignment_ ”即可找到作业部分的代码。**
+## 基本作业
 1. 独自完成lecture1和lecture2的代码
 > Get the Memorize game working as demonstrated in lectures 1 and 2. Type in all the code. Do not copy/paste from anywhere.   
 2. 当前，卡组出现的顺序是固定的。添加洗牌功能。
@@ -12,4 +13,6 @@
 > When your game randomly shows 5 pairs, the font we are using for the emoji will be too large (in portrait) and will start to get clipped. Have the font adjust in the 5 pair case (only) to use a smaller font than .largeTitle. Continue to use .largeTitle when there are 4 or fewer pairs in the game.   
 6. 你的UI应该可以运行在任何iOS设备上，不论横屏（portrait）还是竖屏（landscape）。这可能不需你做任何的代码调整（这是SwiftUI的强大之处），但是请你尝试不同模拟仿真去验证这件事。
 >  Your UI should work in portrait or landscape on any iOS device. In landscape your cards will be larger (but still 2:3 aspect ratio). This probably will not require any work on your part (that’s part of the power of SwiftUI), but be sure to experiment with running on different simulators in Xcode to be sure.   
-
+## 加分题
+1. 从一个更大的（至少12个emoji）的集合中，随机生成你的卡组。换句话说，不要总是在你的游戏中使用那几个相同的图案。
+> Have the emoji on your cards be randomly chosen from a larger set of emoji (at least a dozen). In other words, don’t always use the same five emoji in every game.   
