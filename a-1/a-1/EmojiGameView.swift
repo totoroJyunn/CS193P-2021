@@ -10,9 +10,11 @@ import SwiftUI
 class EmojiGameView {
     var model: MemoryGame<String> = createMemoryGame()
     static func createMemoryGame() -> MemoryGame<String> {
-        let emojis = ["🐧","🦋","🦀","🍑","🍙"]
+        // MARK: extra 1
+        let emojis = ["🐧","🦋","🦀","🍑","🍙","🐣","🎾","🎯","🎲","🎻","🎺","🪕","🚗"].shuffled()
         // MARK: assignment 4
-        return MemoryGame(numberOfPairsOfCard: Int.random(in:2..<emojis.count))
+        
+        return MemoryGame(numberOfPairsOfCard: Int.random(in:2..<5))
         { index in
             emojis[index]
         }
