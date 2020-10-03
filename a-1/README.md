@@ -1,5 +1,5 @@
 # a1
-**在代码中搜索“ _assignment_ ”即可找到作业部分的代码。**
+**在代码中搜索“ _assignment_ ”即可找到基本作业的代码；搜索“extra”即可找到加分题的代码。**
 ## 基本作业
 1. 独自完成lecture1和lecture2的代码
 > Get the Memorize game working as demonstrated in lectures 1 and 2. Type in all the code. Do not copy/paste from anywhere.   
